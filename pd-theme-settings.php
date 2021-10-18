@@ -22,8 +22,6 @@ if ( file_exists( dirname( __FILE__ ) . '/cmb2/init.php' ) ) {
 
 
 
-add_action( 'cmb2_admin_init', 'cmb2_sample_metaboxes', 10);
-
 
 
 
